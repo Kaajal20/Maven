@@ -1,12 +1,10 @@
-package Jenkins;
+package com.kaajal.maven;
 
 public class JenkinsCalculator {
-
 	public int addNumbers(int x, int y) {
 		return (x+y);
 	}
 	public int subNumbers(int x, int y) {
 		return (x-y);
 	}
-
 }

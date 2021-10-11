@@ -2,5 +2,5 @@ projectKey=Jenkins:Maven
 serverUrl=http://localhost:9000
 serverVersion=6.7.7.38951
 dashboardUrl=http://localhost:9000/dashboard/index/Jenkins:Maven
-ceTaskId=AXxqsCFzgshaK4Ois4xm
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXxqsCFzgshaK4Ois4xm
+ceTaskId=AXxupDSeA5mEMji7aOwW
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXxupDSeA5mEMji7aOwW
