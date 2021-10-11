@@ -29,7 +29,7 @@ pipeline {
                     nexusUrl: 'localhost:8081', 
                     nexusVersion: 'nexus3', 
                     protocol: 'http', 
-                    repository: 'jenkins-snapshots', 
+                    repository: 'JenkinsRepo', 
                     version: '0.0.1-SNAPSHOT'
             }
         }
